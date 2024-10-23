@@ -1,0 +1,4 @@
+D:/Університет/5 семестр/coursework5SEMtask2/buildScript/CMakeFiles/calculator_app.dir
+D:/Університет/5 семестр/coursework5SEMtask2/buildScript/CMakeFiles/calculator.dir
+D:/Університет/5 семестр/coursework5SEMtask2/buildScript/CMakeFiles/edit_cache.dir
+D:/Університет/5 семестр/coursework5SEMtask2/buildScript/CMakeFiles/rebuild_cache.dir
